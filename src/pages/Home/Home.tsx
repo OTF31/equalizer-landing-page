@@ -1,5 +1,5 @@
 const Home = () => {
-  return <>Equelizer landing page</>;
+  return <>Equalizer landing page</>;
 };
 
 export default Home;
